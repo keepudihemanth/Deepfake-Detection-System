@@ -1,0 +1,28 @@
+Build Custom Dataset.ipynb
+app
+configs
+data
+outputs
+models
+notebooks/.ipynb_checkpoints
+notebooks/book4.ipynb
+notebooks/Frequency Analysis.ipynb
+notebooks/Notebook 1.ipynb
+notebooks/Notebook 2.ipynb
+notebooks/Notebook 3.ipynb
+notebooks/Notebook 4.ipynb
+notebooks/Notebook 5.ipynb
+notebooks/Notebook 6.ipynb
+notebooks/Notebook 7.ipynb
+notebooks/Notebook 7 2nd part Training.ipynb
+notebooks/Notebook 8 - Model Evaluation.ipynb
+.vscode
+.ipynb_checkpoints
+src/__pycache__
+src/utils
+src/evaluate.py
+src/losses.py
+src/train.py
+src/train_utils.py
+venv
+cmds.txt
